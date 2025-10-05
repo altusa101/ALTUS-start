@@ -1,3 +1,3 @@
 # ALTUS-start
 ALTUS the one man development org....
-<br> auther : alok
+<br> auther : altus
